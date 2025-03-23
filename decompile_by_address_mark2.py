@@ -3,7 +3,7 @@ from ghidra.app.decompiler import DecompInterface
 from ghidra.util.task import ConsoleTaskMonitor
 
 # Output file path
-OUTPUT_FILE = "C:\\Users\\DarkShuper\\Downloads\\decompiled_functions.txt"  # Windows path
+OUTPUT_FILE = "C:\\Users\\username\\Downloads\\decompiled_functions.txt"  # Replace 'username' with your Windows username
 
 def main():
     # Prompt user for start and end addresses
